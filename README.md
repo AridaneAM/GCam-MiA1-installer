@@ -11,3 +11,6 @@ xda post: https://forum.xda-developers.com/mi-a1/how-to/tool-google-camera-root-
 * https://www.youtube.com/watch?v=S62vzQ3NuqU
 * https://www.youtube.com/watch?v=1Lj-5E9lMww
 
+## About complementary files
+The folder has to be in with compiled app to use adb, twrp, drivers and  the instructions picture. 
+The *.apk to be installed has to be placed in "Files/app/GoogleCamera.apk"
